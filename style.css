@@ -1,9 +1,9 @@
   .buttongroup button {
     border-radius: 5px;
-    background-color: rgb(10,195,10);
+    background: rgb(10,195,10);
   }
   .buttongroup button:hover {
-    background-color: rgb(50,255,50);
+    background: rgb(50,255,50);
   }
   h1 {
     color: mediumaquamarine;
